@@ -1,0 +1,33 @@
+// Pretendard
+@font-face {
+	font-family: 'Pretendard';
+	font-weight: 400;
+	font-display: swap;
+	src: local('Pretendard Regular'),
+  url('#{$pre-font-path}/Pretendard-Regular.woff2') format('woff2'),
+  url('#{$pre-font-path}/Pretendard-Regular.woff') format('woff'),
+  url('#{$pre-font-path}/Pretendard-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Pretendard';
+	font-weight: 500;
+	font-display: swap;
+	src: local('Pretendard Medium'),
+  url('#{$pre-font-path}/Pretendard-Medium.woff2') format('woff2'),
+  url('#{$pre-font-path}/Pretendard-Medium.woff') format('woff'),
+  url('#{$pre-font-path}/Pretendard-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Pretendard';
+	font-weight: 600;
+	font-display: swap;
+	src: local('Pretendard SemiBold'),
+  url('#{$pre-font-path}/Pretendard-SemiBold.woff2') format('woff2'),
+  url('#{$pre-font-path}/Pretendard-SemiBold.woff') format('woff'),
+  url('#{$pre-font-path}/Pretendard-SemiBold.ttf') format('truetype');
+}
+
+
+// Roboto
